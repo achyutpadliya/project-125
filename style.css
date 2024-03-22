@@ -1,0 +1,25 @@
+body{
+background-color: rgb(2, 204, 254);
+border:dashed;
+border-color:black;
+border-radius:0px;
+box-shadow: 1px 1px 20px rgb(32, 22, 22);
+font-size: 20px;
+}
+
+.inst{
+    box-shadow:3px 3px 4.5px black;
+    background-color: rgb(255, 255, 255);
+    font-size: 19px;
+}
+
+footer{
+    padding-top: 900px;
+    font-size: 20px;
+    font-weight:20px;
+    color: aliceblue;
+}
+
+canvas{
+    background-color: grey;
+}
